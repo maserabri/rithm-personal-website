@@ -1,0 +1,30 @@
+.navbar {
+  background-color: #FFB6C1;
+}
+
+.about-me {
+  color: lightslategray;
+  padding: 20px 20px;
+}
+
+.about-me h2, .about-me p {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.about-me h2 {
+  margin-bottom: 20px;
+}
+
+.about-me p {
+  width: 500px;
+}
+
+.about-me img {
+  display: inline-block;
+  height: 300px;
+  width: 300px;
+  border-radius: 5px;
+  margin-right: 170px;
+}
