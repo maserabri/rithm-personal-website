@@ -1,9 +1,12 @@
+* {
+  color: lightslategray;
+}
+
 .navbar {
   background-color: #FFB6C1;
 }
 
-.about-me {
-  color: lightslategray;
+.about-me, .learning, .contact {
   padding: 20px 20px;
 }
 
